@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(157, 138, 175);
+}
+
+
+/*header waaye*/
+.nav{
+    color: rgb(29, 29, 180);
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+padding: 12px;
+}
+.logo{
+    
+
+
+}
+.home ul{
+    display: flex;
+}
+
+.home ul li{
+    list-style-type: none;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-decoration: none;
+
+}
+.main{
+    ba
+}
+    .home li:hover{
+        color: black;
+        background-color: azure;
+        border-radius: 6px;
+    }
+
+
+.search:hover{
+    color: red;
+    background-color: whitesmoke;
+    border-radius: 20px;
+
+
+}
+
+
+.qoraal{
+    font-size: 32px;
+    padding: 75px;
+}
+.sawir{
+    display: flex;
+    overflow: auto;
+    margin: 32px;
+   
+}
+.sawir img{
+    display: flex;
+    width: 300px ;
+    padding: 32px;
+} 
+.main{
+    display: flex;
+}
+.Qoraal{
+    font-size: 40px;
+    margin-top: 34px;
+    padding: 30px;
+}
+.sawiro{
+    display: flex;
+    
+    overflow-y: var(.sawiro);
+    margin: 80px;
+    padding-left: 30px;
+}
+.sawiro img{
+    display: flex;
+    width: 300px;
+    padding: 34px;
+}
+.edication{
+    display: flex;
+    
+    
+}
+.pic img{
+    width: 200px;
+
+}
+/*m-c*/
+form{
+    margin: 4px 0; 
+    padding: 0; 
+    
+  border: 0;
+
+}
+.foom{
+    background-color: gray;
+    margin: 33px;
+    padding: 22px;
+}
+.m-i{
+    background-image: url("sawir/pexels-life-of-pix-67468.jpg");
+    height: 700px;
+}
+.foom{
+    border-radius: 100px;
+}
+
+
+
